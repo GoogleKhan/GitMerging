@@ -6,6 +6,11 @@ public class Calculator
 		
 	}
 	
+    public  int multiply(int a, int b){
+		// Creates in feature-B branch
+		return a * b;
+		
+	}
 
 	
 }
